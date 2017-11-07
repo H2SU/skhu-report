@@ -1,0 +1,4 @@
+﻿  ptrptr.c
+c:\users\user\desktop\c\solutions\170925\170925\ptrptr.c(16): warning C4013: 'system'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+  170925.vcxproj -> C:\Users\user\Desktop\C\solutions\170925\Debug\170925.exe
+  170925.vcxproj -> C:\Users\user\Desktop\C\solutions\170925\Debug\170925.pdb (Partial PDB)
