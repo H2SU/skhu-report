@@ -7,8 +7,8 @@ class student:
 
     def __init__(self,n,g):
         self.name = n
-        self.grade = g
-        self.code = student.tag
+        self.grade = student.tag
+        self.code = g
         student.tag += 1
 
     def print(self):
