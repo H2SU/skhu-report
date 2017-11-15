@@ -1,0 +1,4 @@
+﻿  score.c
+c:\users\user\desktop\skhu-report\c\201632007_8\201632007_8\score.c(19): warning C4101: 'total': unreferenced local variable
+  201632007_8.vcxproj -> C:\Users\user\Desktop\skhu-report\C\201632007_8\Debug\201632007_8.exe
+  201632007_8.vcxproj -> C:\Users\user\Desktop\skhu-report\C\201632007_8\Debug\201632007_8.pdb (Full PDB)
