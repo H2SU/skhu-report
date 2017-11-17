@@ -58,11 +58,12 @@
 	</section>
 	<section name="FatJarPackageWizard">
 		<item value="C:\Users\user\Desktop\201632007.xml" key="FatJarPackageWizardPage.ANTSCRIPT_LOCATION"/>
-		<item value="RecursionTest2 - lab0_9" key="FatJarPackageWizardPage.LAUNCH_CONFIGURATION_SELECTION_NAME"/>
-		<item value="lab0_9\lab0_9.jar" key="FatJarPackageWizardPage.DESTINATION_PATH_SELECTION"/>
+		<item value="MyBinarySearchTreeTest - lab9_1" key="FatJarPackageWizardPage.LAUNCH_CONFIGURATION_SELECTION_NAME"/>
+		<item value="lab9_1\lab9_1.jar" key="FatJarPackageWizardPage.DESTINATION_PATH_SELECTION"/>
 		<item value="false" key="FatJarPackageWizardPage.ANTSCRIPT_SAVE"/>
 		<item value="1" key="FatJarPackageWizardPage.LIBRARY_HANDLING"/>
 		<list key="FatJarPackageWizardPage.DESTINATION_NAMES_ID">
+			<item value="lab9_1\lab9_1.jar"/>
 			<item value="lab0_9/lab0_9.jar"/>
 			<item value="hw8_2/hw8_2.jar"/>
 			<item value="hw7_1\hw7_1.jar"/>
