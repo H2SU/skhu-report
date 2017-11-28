@@ -1,8 +1,6 @@
-<<<<<<< HEAD
-GitRepositoriesView.GitDirectories=C\:\\Users\\user\\lab\\.git;C\:\\Users\\user\\Desktop\\TheBeats\\.git;C\:\\Users\\user\\Desktop\\skhu-report\\.git;
-GitRepositoriesView.GitDirectories.relative=C\:\\Users\\user\\lab\\.git;C\:\\Users\\user\\Desktop\\TheBeats\\.git;C\:\\Users\\user\\Desktop\\skhu-report\\.git;
-=======
-GitRepositoriesView.GitDirectories=C\:\\Users\\user\\lab\\.git;C\:\\Users\\H2SU\\Desktop\\skhu-report\\.git;C\:\\Users\\user\\Desktop\\skhu-report\\.git;
-GitRepositoriesView.GitDirectories.relative=C\:\\Users\\user\\lab\\.git;C\:\\Users\\H2SU\\Desktop\\skhu-report\\.git;C\:\\Users\\user\\Desktop\\skhu-report\\.git;
->>>>>>> cbf2a6f48124497a1e99ca71502426427c1d9bee
+=\=\=\=\=\=\=
+<<<<<<<=HEAD
+>>>>>>>=cbf2a6f48124497a1e99ca71502426427c1d9bee
+GitRepositoriesView.GitDirectories=C\:\\Users\\user\\lab\\.git;C\:\\Users\\user\\Desktop\\TheBeats\\.git;C\:\\Users\\H2SU\\Desktop\\skhu-report\\.git;C\:\\Users\\user\\Desktop\\skhu-report\\.git;
+GitRepositoriesView.GitDirectories.relative=C\:\\Users\\user\\lab\\.git;C\:\\Users\\user\\Desktop\\TheBeats\\.git;C\:\\Users\\H2SU\\Desktop\\skhu-report\\.git;C\:\\Users\\user\\Desktop\\skhu-report\\.git;
 eclipse.preferences.version=1
