@@ -14,6 +14,7 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="450">
+<<<<<<< HEAD
       <file leaf-file-name="lab5_13.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/lab5_13.py">
           <provider selected="true" editor-type-id="text-editor">
@@ -24,6 +25,8 @@
           </provider>
         </entry>
       </file>
+=======
+>>>>>>> d68358bfa74721fb643a243eca1451e9d4651a51
       <file leaf-file-name="lab5_14.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/lab5_14.py">
           <provider selected="true" editor-type-id="text-editor">
@@ -37,7 +40,11 @@
       <file leaf-file-name="lab6_7.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/lab6_7.py">
           <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
             <state relative-caret-position="272">
+=======
+            <state relative-caret-position="496">
+>>>>>>> d68358bfa74721fb643a243eca1451e9d4651a51
               <caret line="16" column="18" lean-forward="false" selection-start-line="16" selection-start-column="18" selection-end-line="16" selection-end-column="18" />
               <folding />
             </state>
@@ -47,8 +54,63 @@
       <file leaf-file-name="lab7_1.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/lab7_1.py">
           <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
             <state relative-caret-position="85">
               <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+=======
+            <state relative-caret-position="279">
+              <caret line="9" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="lab7_7.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lab7_7.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="248">
+              <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="9" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="lab7_7_1.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lab7_7_1.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="62">
+              <caret line="2" column="25" lean-forward="false" selection-start-line="2" selection-start-column="25" selection-end-line="2" selection-end-column="25" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="lab7_8.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lab7_8.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="217">
+              <caret line="7" column="23" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="7" selection-end-column="23" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="lab7_9.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lab7_9.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="341">
+              <caret line="11" column="20" lean-forward="false" selection-start-line="11" selection-start-column="20" selection-end-line="11" selection-end-column="20" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="lab7_11.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/lab7_11.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="124">
+              <caret line="4" column="0" lean-forward="true" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+>>>>>>> d68358bfa74721fb643a243eca1451e9d4651a51
               <folding />
             </state>
           </provider>
@@ -69,7 +131,11 @@
       <file leaf-file-name="lab7_2.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/lab7_2.py">
           <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
             <state relative-caret-position="85">
+=======
+            <state relative-caret-position="155">
+>>>>>>> d68358bfa74721fb643a243eca1451e9d4651a51
               <caret line="5" column="4" lean-forward="false" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="4" />
               <folding />
             </state>
@@ -79,7 +145,11 @@
       <file leaf-file-name="lab7_3.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/lab7_3.py">
           <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
             <state relative-caret-position="85">
+=======
+            <state relative-caret-position="155">
+>>>>>>> d68358bfa74721fb643a243eca1451e9d4651a51
               <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
               <folding />
             </state>
@@ -127,7 +197,16 @@
         <option value="$PROJECT_DIR$/lab7_1.py" />
         <option value="$PROJECT_DIR$/lab7_2.py" />
         <option value="$PROJECT_DIR$/lab7_3.py" />
+<<<<<<< HEAD
         <option value="$PROJECT_DIR$/lab7_6.py" />
+=======
+        <option value="$PROJECT_DIR$/fruits.txt" />
+        <option value="$PROJECT_DIR$/lab7_7.py" />
+        <option value="$PROJECT_DIR$/lab7_7_1.py" />
+        <option value="$PROJECT_DIR$/lab7_8.py" />
+        <option value="$PROJECT_DIR$/lab7_9.py" />
+        <option value="$PROJECT_DIR$/lab7_11.py" />
+>>>>>>> d68358bfa74721fb643a243eca1451e9d4651a51
       </list>
     </option>
   </component>
@@ -202,59 +281,13 @@
       </list>
     </option>
   </component>
+<<<<<<< HEAD
   <component name="RunManager" selected="Python.lab7_6">
     <configuration name="lab6_7" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="새 폴더" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lab6_7.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-    </configuration>
-    <configuration name="lab7_1" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="새 폴더" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lab7_1.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-    </configuration>
-    <configuration name="lab7_2" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="새 폴더" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lab7_2.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-    </configuration>
+=======
+  <component name="RunManager" selected="Python.lab7_9">
     <configuration name="lab7_3" type="PythonConfigurationType" factoryName="Python" temporary="true">
+>>>>>>> d68358bfa74721fb643a243eca1451e9d4651a51
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -266,12 +299,20 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="새 폴더" />
+<<<<<<< HEAD
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lab6_7.py" />
+=======
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lab7_3.py" />
+>>>>>>> d68358bfa74721fb643a243eca1451e9d4651a51
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
-    <configuration name="lab7_6" type="PythonConfigurationType" factoryName="Python" temporary="true">
+<<<<<<< HEAD
+    <configuration name="lab7_1" type="PythonConfigurationType" factoryName="Python" temporary="true">
+=======
+    <configuration name="lab7_7" type="PythonConfigurationType" factoryName="Python" temporary="true">
+>>>>>>> d68358bfa74721fb643a243eca1451e9d4651a51
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -283,12 +324,92 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="새 폴더" />
+<<<<<<< HEAD
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lab7_1.py" />
+=======
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lab7_7.py" />
+>>>>>>> d68358bfa74721fb643a243eca1451e9d4651a51
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
+<<<<<<< HEAD
+    <configuration name="lab7_2" type="PythonConfigurationType" factoryName="Python" temporary="true">
+=======
+    <configuration name="lab7_7_1" type="PythonConfigurationType" factoryName="Python" temporary="true">
+>>>>>>> d68358bfa74721fb643a243eca1451e9d4651a51
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="새 폴더" />
+<<<<<<< HEAD
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lab7_2.py" />
+=======
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lab7_7_1.py" />
+>>>>>>> d68358bfa74721fb643a243eca1451e9d4651a51
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
+<<<<<<< HEAD
+    <configuration name="lab7_3" type="PythonConfigurationType" factoryName="Python" temporary="true">
+=======
+    <configuration name="lab7_8" type="PythonConfigurationType" factoryName="Python" temporary="true">
+>>>>>>> d68358bfa74721fb643a243eca1451e9d4651a51
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="새 폴더" />
+<<<<<<< HEAD
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lab7_3.py" />
+=======
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lab7_8.py" />
+>>>>>>> d68358bfa74721fb643a243eca1451e9d4651a51
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
+<<<<<<< HEAD
+    <configuration name="lab7_6" type="PythonConfigurationType" factoryName="Python" temporary="true">
+=======
+    <configuration name="lab7_9" type="PythonConfigurationType" factoryName="Python" temporary="true">
+>>>>>>> d68358bfa74721fb643a243eca1451e9d4651a51
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="새 폴더" />
+<<<<<<< HEAD
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lab7_6.py" />
+=======
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lab7_9.py" />
+>>>>>>> d68358bfa74721fb643a243eca1451e9d4651a51
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
     <list size="5">
+<<<<<<< HEAD
       <item index="0" class="java.lang.String" itemvalue="Python.lab6_7" />
       <item index="1" class="java.lang.String" itemvalue="Python.lab7_1" />
       <item index="2" class="java.lang.String" itemvalue="Python.lab7_2" />
@@ -302,6 +423,21 @@
         <item index="2" class="java.lang.String" itemvalue="Python.lab7_2" />
         <item index="3" class="java.lang.String" itemvalue="Python.lab7_1" />
         <item index="4" class="java.lang.String" itemvalue="Python.lab6_7" />
+=======
+      <item index="0" class="java.lang.String" itemvalue="Python.lab7_3" />
+      <item index="1" class="java.lang.String" itemvalue="Python.lab7_7" />
+      <item index="2" class="java.lang.String" itemvalue="Python.lab7_7_1" />
+      <item index="3" class="java.lang.String" itemvalue="Python.lab7_8" />
+      <item index="4" class="java.lang.String" itemvalue="Python.lab7_9" />
+    </list>
+    <recent_temporary>
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="Python.lab7_9" />
+        <item index="1" class="java.lang.String" itemvalue="Python.lab7_8" />
+        <item index="2" class="java.lang.String" itemvalue="Python.lab7_7_1" />
+        <item index="3" class="java.lang.String" itemvalue="Python.lab7_7" />
+        <item index="4" class="java.lang.String" itemvalue="Python.lab7_3" />
+>>>>>>> d68358bfa74721fb643a243eca1451e9d4651a51
       </list>
     </recent_temporary>
   </component>
@@ -331,6 +467,10 @@
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.22799575" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+<<<<<<< HEAD
+=======
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.14285715" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+>>>>>>> d68358bfa74721fb643a243eca1451e9d4651a51
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -355,12 +495,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/pypy/lab4_10.py" />
-    <entry file="file://$PROJECT_DIR$/pypy/lab4_11.py" />
-    <entry file="file://$PROJECT_DIR$/pypy/lab4_12.py" />
-    <entry file="file://$PROJECT_DIR$/pypy/lab4_13.py" />
-    <entry file="file://$PROJECT_DIR$/pypy/exam.py" />
-    <entry file="file://$PROJECT_DIR$/pypy/lab4_9.py" />
     <entry file="file://$PROJECT_DIR$/pypy/lab4_10.py" />
     <entry file="file://$PROJECT_DIR$/pypy/lab4_11.py" />
     <entry file="file://$PROJECT_DIR$/pypy/lab4_13.py" />
@@ -417,7 +551,11 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/lab6_7.py">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
         <state relative-caret-position="272">
+=======
+        <state relative-caret-position="496">
+>>>>>>> d68358bfa74721fb643a243eca1451e9d4651a51
           <caret line="16" column="18" lean-forward="false" selection-start-line="16" selection-start-column="18" selection-end-line="16" selection-end-column="18" />
           <folding />
         </state>
@@ -425,7 +563,11 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/lab7_3.py">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
         <state relative-caret-position="85">
+=======
+        <state relative-caret-position="155">
+>>>>>>> d68358bfa74721fb643a243eca1451e9d4651a51
           <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
           <folding />
         </state>
@@ -433,7 +575,11 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/lab7_2.py">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
         <state relative-caret-position="85">
+=======
+        <state relative-caret-position="155">
+>>>>>>> d68358bfa74721fb643a243eca1451e9d4651a51
           <caret line="5" column="4" lean-forward="false" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="4" />
           <folding />
         </state>
@@ -441,8 +587,60 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/lab7_1.py">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
         <state relative-caret-position="85">
           <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+=======
+        <state relative-caret-position="279">
+          <caret line="9" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fruits.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="11" lean-forward="false" selection-start-line="0" selection-start-column="11" selection-end-line="0" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lab7_7.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="248">
+          <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lab7_7_1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="62">
+          <caret line="2" column="25" lean-forward="false" selection-start-line="2" selection-start-column="25" selection-end-line="2" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lab7_8.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="217">
+          <caret line="7" column="23" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="7" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lab7_9.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="341">
+          <caret line="11" column="20" lean-forward="false" selection-start-line="11" selection-start-column="20" selection-end-line="11" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lab7_11.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="124">
+          <caret line="4" column="0" lean-forward="true" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+>>>>>>> d68358bfa74721fb643a243eca1451e9d4651a51
           <folding />
         </state>
       </provider>

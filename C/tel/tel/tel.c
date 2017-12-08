@@ -1,16 +1,21 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-typedef struct{
-	char name[20];
+typedef struct TEL {
+	char name[10];
 	int num;
 }TEL;
 
-TEL ** read_tel()
+TEL* read_tel(void)
 {
+	FILE * fp;
+	fp = fopen("tel.dat", "r");
 	int i = 0;
-	FILE * fp = fopen("tel.dat", "rt");
-	TEL ** telptr;
+	
+	TEL * telptr = (TEL*)malloc(20 * sizeof(TEL));
+	if (fp == NULL) {
+		printf("동적할당실패\n");
+	}
 
 	while (1)
 	{
@@ -18,12 +23,12 @@ TEL ** read_tel()
 			break;
 		else
 		{
-			telptr[i] = (TEL**)malloc(10 * sizeof(TEL));
-			fscanf(fp, "%s %d", telptr[i]->name, &telptr[i]->num);
+			fscanf_s(fp, "%s %d", telptr[i].name, &telptr[i].num);
 			i++;
 		}
 
 		fclose(fp);
+
 		return telptr;
 	}
 }
@@ -31,11 +36,11 @@ TEL ** read_tel()
 int main(void)
 {
 	int i = 0;
-	TEL ** tel_arr = read_tel();
+	TEL * tel_arr = read_tel();
 
 	for (i = 0; i < 10; i++)
 	{
-		printf("%s / %d \n", tel_arr[i]->name, tel_arr[i]->num);
+		printf("%s / %d \n", tel_arr[i].name, tel_arr[i].num);
 	}
 
 	free(tel_arr);
