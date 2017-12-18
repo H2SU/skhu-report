@@ -1,0 +1,3 @@
+﻿  main.c
+c:\users\h2su\desktop\skhu-report\c\final-exam\uniontest\uniontest\main.c(27): warning C4013: 'system'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+  uniontest.vcxproj -> C:\Users\H2SU\Desktop\skhu-report\C\final-exam\uniontest\Debug\uniontest.exe
