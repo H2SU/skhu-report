@@ -18,3 +18,5 @@ class person:
 
     def __str__(self):
         return print("이름: {}\n나이: {}")
+
+
