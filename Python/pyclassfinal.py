@@ -11,3 +11,5 @@ class human():
 
 ohsangwon = human(22)
 ohsangwon.age(22)
+
+오상원바보
